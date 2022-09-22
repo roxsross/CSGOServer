@@ -10,7 +10,7 @@ _Para poder comenzar lo que tendreis que hacer es descargaros [Ubuntu Server](ht
 
 * 2 Cores
 * 2 GB de RAM
-* 60 GB de memoria (para poder realizar al menos una copia de seguridad del servidor)
+* 60 GB 
 
 ## Instalación 🔧
 
